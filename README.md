@@ -3,16 +3,17 @@
 #### By https://github.com/wanguinjoka
 ## Description
 The program is divided into the user interface and business logic. With the following specifications:
-- User inputs a number, the number is converted from string to number by the program
-- The list/series of the number is listed
+- User inputs a number, the number is converted from string to number by the program.Example["25"] to 25.
+- The list/series of the number is listed.Example [1,2,3,4....25]
 - The program loops through the series
-- The program identifies numbers divisible by 3 and displays result as PING
-- The program identifies numbers divisible by 5 and displays result as PONG
-- The program identifies numbers divisible by 15 and displays result as PING-PONG
+- The program identifies numbers divisible by 3 and displays result as PING.Example [1,2,PING]
+- The program identifies numbers divisible by 5 and displays result as PONG.Example [1,2,3,4,PONG]
+- The program identifies numbers divisible by 15 and displays result as PING-PONG. Example [13,14,PINGPONG]
 ## Setup/Installation Requirements
 The program can be installed using any browser
 * Mozillar-fire fox
 * chromium
+* The live link is:https://wanguinjoka.github.io/ping-pong/
 ## Known Bugs
 There no Known Bugs
 ## Technologies used
