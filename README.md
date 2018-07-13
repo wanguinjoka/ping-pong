@@ -1,5 +1,5 @@
 # PING-PONG
-#### {Ping-pong is a game that takes the number input by the user, and gives a list series of the showing ping or pong and the winner Ping -pong}, {13 JULY 2018}
+#### Ping-pong is a game that takes the number input by the user, and gives a list series of the showing ping or pong and the winner Ping -pong, 13 JULY 2018
 #### By https://github.com/wanguinjoka
 ## Description
 The program is divided into the user interface and business logic. With the following specifications:
@@ -16,11 +16,12 @@ The program can be installed using any browser
 ## Known Bugs
 There no Known Bugs
 ## Technologies used
-The program uses for the user-interface:
-HTML
-Bootstrap Styles
+The program usesthe following technologies;
+For the user-interface:
+-HTML
+-Bootstrap Styles
 For the Business Logic:
-Javascripts
+-Javascripts
 ## Support and contact details
 I encourage you to contact me for any queries through
 https://github.com/wanguinjoka.}
