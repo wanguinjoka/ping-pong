@@ -18,4 +18,9 @@
 .main{
   margin-left: 200px;
   padding: 0px 10px;
+  background-color: #d3d3d3;
+}
+.btn{
+  color: black;
+  background-color: #0d98ba;
 }

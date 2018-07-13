@@ -16,7 +16,7 @@ The program can be installed using any browser
 ## Known Bugs
 There no Known Bugs
 ## Technologies used
-The program usesthe following technologies;
+The program usesthe following technologies
 For the user-interface:
 -HTML
 -Bootstrap Styles
